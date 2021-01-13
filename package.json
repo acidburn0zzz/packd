@@ -31,7 +31,7 @@
     "is-module": "^1.0.0",
     "lru-cache": "^4.0.2",
     "minilog": "^3.1.0",
-    "npm": "^5.3.0",
+    "npm": "^6.14.6",
     "pretty-bytes": "^4.0.2",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
